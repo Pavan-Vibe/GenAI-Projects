@@ -1,0 +1,186 @@
+{
+  "kpis": {
+    "total_conversations": 128483,
+    "avg_csat": 3.0,
+    "escalation_rate_pct": 25.0,
+    "resolved_first_contact_pct": 50.0,
+    "avg_bot_handled_pct": 49.9,
+    "avg_sla_met_pct": 85.0,
+    "avg_first_response_min": 15.5
+  },
+  "conversation_trend": [
+    {
+      "month": "2025-07",
+      "conversations": 5409,
+      "avg_csat": 2.97
+    },
+    {
+      "month": "2025-08",
+      "conversations": 5452,
+      "avg_csat": 2.99
+    },
+    {
+      "month": "2025-09",
+      "conversations": 5077,
+      "avg_csat": 2.99
+    },
+    {
+      "month": "2025-10",
+      "conversations": 5295,
+      "avg_csat": 3.04
+    },
+    {
+      "month": "2025-11",
+      "conversations": 5195,
+      "avg_csat": 3.01
+    },
+    {
+      "month": "2025-12",
+      "conversations": 5496,
+      "avg_csat": 3.0
+    },
+    {
+      "month": "2026-01",
+      "conversations": 5502,
+      "avg_csat": 3.01
+    },
+    {
+      "month": "2026-02",
+      "conversations": 5222,
+      "avg_csat": 2.96
+    },
+    {
+      "month": "2026-03",
+      "conversations": 5197,
+      "avg_csat": 2.98
+    },
+    {
+      "month": "2026-04",
+      "conversations": 5555,
+      "avg_csat": 2.97
+    },
+    {
+      "month": "2026-05",
+      "conversations": 5445,
+      "avg_csat": 3.01
+    },
+    {
+      "month": "2026-06",
+      "conversations": 3945,
+      "avg_csat": 3.02
+    }
+  ],
+  "channel_distribution": [
+    {
+      "name": "mobile",
+      "value": 32318
+    },
+    {
+      "name": "web_chat",
+      "value": 32264
+    },
+    {
+      "name": "whatsapp",
+      "value": 32032
+    },
+    {
+      "name": "voice_bot",
+      "value": 31869
+    }
+  ],
+  "intent_distribution": [
+    {
+      "name": "order_status",
+      "value": 25798
+    },
+    {
+      "name": "billing",
+      "value": 25703
+    },
+    {
+      "name": "technical",
+      "value": 25678
+    },
+    {
+      "name": "refund",
+      "value": 25677
+    },
+    {
+      "name": "product_info",
+      "value": 25627
+    }
+  ],
+  "sentiment_end_distribution": [
+    {
+      "name": "negative",
+      "value": 43062
+    },
+    {
+      "name": "neutral",
+      "value": 42990
+    },
+    {
+      "name": "positive",
+      "value": 42431
+    }
+  ],
+  "readmission_by_diagnosis": [
+    {
+      "diagnosis_group": "Diabetes",
+      "admissions": 44313,
+      "readmit_rate": 50.1
+    },
+    {
+      "diagnosis_group": "Infection",
+      "admissions": 44243,
+      "readmit_rate": 50.2
+    },
+    {
+      "diagnosis_group": "Circulatory",
+      "admissions": 44106,
+      "readmit_rate": 49.9
+    },
+    {
+      "diagnosis_group": "Injury",
+      "admissions": 43765,
+      "readmit_rate": 49.8
+    },
+    {
+      "diagnosis_group": "Cancer",
+      "admissions": 43650,
+      "readmit_rate": 50.2
+    },
+    {
+      "diagnosis_group": "Respiratory",
+      "admissions": 43641,
+      "readmit_rate": 49.7
+    }
+  ],
+  "no_show_by_department": [
+    {
+      "department": "Specialist",
+      "appointments": 40625,
+      "no_show_rate": 49.7
+    },
+    {
+      "department": "Lab",
+      "appointments": 40341,
+      "no_show_rate": 49.8
+    },
+    {
+      "department": "Therapy",
+      "appointments": 40268,
+      "no_show_rate": 49.9
+    },
+    {
+      "department": "Imaging",
+      "appointments": 40245,
+      "no_show_rate": 50.3
+    },
+    {
+      "department": "Primary Care",
+      "appointments": 40216,
+      "no_show_rate": 50.0
+    }
+  ]
+}

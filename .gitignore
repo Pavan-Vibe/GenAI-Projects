@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+data/app.db
+data/faiss_index/
+frontend/node_modules/
+frontend/dist/
+.DS_Store
